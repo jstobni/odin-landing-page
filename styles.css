@@ -59,7 +59,7 @@ body {
 .cta-button {
     background-color: #3882F6;
     color: #F9FAF8;
-    border-radius: 5px;
+    border-radius: 8px;
     padding: 5px 25px;
     font-size: 16px;
 }
@@ -74,4 +74,33 @@ body {
     height: 100%;
     align-items: center;
     justify-content: center;
+}
+
+.additional-information {
+    text-align: center;
+    padding: 40px 250px;
+}
+
+.information-heading {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.information-body {
+    display: flex;
+    align-items: center;
+}
+
+.information-container {
+    margin: 15px;
+}
+
+.information {
+    flex: 1;
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+    aspect-ratio: 1/1;
+    width: 100%;
+    max-height: 100%;
 }
