@@ -104,3 +104,22 @@ body {
     width: 100%;
     max-height: 100%;
 }
+
+.quote-bar {
+    background-color: #E5E7EB;
+}
+
+.quote-container {
+    padding: 40px 250px;
+}
+
+.quote-body {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-signature {
+    font-size: 18px;
+    font-weight: 900;
+    text-align: right;
+}
