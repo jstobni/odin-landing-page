@@ -15,8 +15,16 @@ body {
 .nav-bar {
     background-color: #1F2937;
     display: flex;
+    align-items: center;
 }
 
 .header-logo {
     flex: 2;
+    padding-left: 100px;
+}
+
+.header-link {
+    flex: 1;
+    padding-right: 100px;
+    text-align: right;
 }
