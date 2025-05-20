@@ -111,11 +111,13 @@ body {
 
 .quote-container {
     padding: 40px 250px;
+    color: #1F2937;
 }
 
 .quote-body {
     font-size: 36px;
     font-style: italic;
+    font-weight: 200;
 }
 
 .quote-signature {
@@ -175,4 +177,11 @@ body {
     padding: 10px 25px 10px;
     font-size: 16px;
     font-weight: 600;
+}
+
+.footer-bar {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 25px 0px;
+    text-align: center;
 }
