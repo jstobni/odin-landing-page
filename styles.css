@@ -123,3 +123,56 @@ body {
     font-weight: 900;
     text-align: right;
 }
+
+.cta-bar {
+    margin: 80px 150px 80px 150px;
+}
+
+.cta-container {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.cta-body-container {
+    flex: 2;
+    position: relative;
+    padding: 25px 0px;
+}
+
+.cta-body {
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    color: #E5E7EB;
+}
+
+.cta-header {
+    font-weight: 900;
+    margin: 16px 0px 0px;
+    font-size: 22px;
+}
+
+.cta-text {
+    margin: 2px 0px 16px;
+    font-size: 18px;
+}
+
+.cta-button-container {
+    flex: 1;
+}
+
+.cta-button {
+    text-align: center;
+}
+
+.cta-button button {
+    background-color: transparent;
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    border-radius: 8px;
+    padding: 10px 25px 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
